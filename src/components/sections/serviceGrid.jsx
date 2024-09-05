@@ -18,9 +18,9 @@ const ServiceGrid = () => {
                         </div>
                     </div>
                     <div className="row">
-                        <Card id={1} icon={<RiGlobalFill size={60} />} title={"Brand Identity Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
-                        <Card id={2} icon={<RiQuillPenLine size={60} />} title={"Website Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
-                        <Card id={3} icon={<RiPantoneFill size={60} />} title={"Application Design"} description={"Bentos gives you the blocks & kits you need to create a true website within minutes."} />
+                        <Card id={1} icon={<RiGlobalFill size={60} />} title={"Brand Identity Design"} description={"Brand identity design involves creating visual elements like logos, color palettes, and typography that represent a brand's values and personality, ensuring consistency and recognition across all customer touchpoints."} />
+                        <Card id={2} icon={<RiQuillPenLine size={60} />} title={"UI/UX Design Design"} description={"UI/UX design focuses on creating user-friendly digital interfaces. UI deals with visual elements, while UX ensures seamless, intuitive user experiences through research, design, and user-centered problem-solving."} />
+                        <Card id={3} icon={<RiPantoneFill size={60} />} title={"Creative Poster Design & Content Creation"} description={"Creative poster design combines visuals and typography to convey messages, while content creation develops engaging text or media to effectively communicate with the target audience."} />
                     </div>
                 </div>
             </div>

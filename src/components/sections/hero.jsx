@@ -20,8 +20,8 @@ const Hero = () => {
                         <SlideUp>
                             <div className="about-image-part">
                                 <img src={profile} alt="About Me" />
-                                <h2>Bentos Walker</h2>
-                                <p>I am a Web Designer based in san francisco.</p>
+                                <h2>Rajan Sharma</h2>
+                                <p>I am a Brand Identity and UI/UX Designer baseed in Nepal</p>
                                 <div className="about-social text-center">
                                     <ul>
                                         <li><Link to=""><RiFacebookCircleFill size={20} /></Link></li>
@@ -40,7 +40,7 @@ const Hero = () => {
                             <div className="about-content-part">
                                 <p>Hello There!</p>
                                 <h2>
-                                    I’m Bentos Walker, a product designer crafting user-centric design with pixel-perfect precision.
+                                I'm a Nepal-based Brand Identity Designer, passionate about crafting unique visual identities that resonate with clients and audiences, merging culture and creativity into memorable brand experiences.
                                 </h2>
                                 <div className="adress-field">
                                     <ul>

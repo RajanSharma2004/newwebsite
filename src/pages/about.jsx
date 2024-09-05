@@ -7,7 +7,7 @@ const About = () => {
     return (
         <>
             <Summery />
-            <Resume />
+            {/* <Resume /> */}
             <Testimonials />
            
         </>
