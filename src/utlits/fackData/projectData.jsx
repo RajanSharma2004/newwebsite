@@ -7,8 +7,8 @@ export const projectsData = [
     {
         id: 1,
         src: work_1,
-        category: "Design",
-        title: "Mobile Application Design",
+        category: "Brand Identity Design",
+        title: "Intense Team",
     },
     {
         id: 2,

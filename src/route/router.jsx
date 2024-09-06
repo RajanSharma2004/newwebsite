@@ -31,7 +31,7 @@ export const router = createBrowserRouter([
             },
             {
                 path: "/single-project",
-                element: <SingleProject />
+                element: <SingleProject1 />
             },
             {
                 path: "/works",
